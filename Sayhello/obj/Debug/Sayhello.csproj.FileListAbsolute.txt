@@ -1,0 +1,16 @@
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\bin\Debug\Sayhello.exe.config
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\bin\Debug\Sayhello.exe
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\bin\Debug\Sayhello.pdb
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.csproj.AssemblyReference.cache
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\MainWindow.g.cs
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\App.g.cs
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello_MarkupCompile.cache
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello_MarkupCompile.lref
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\MainWindow.baml
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.g.resources
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.Properties.Resources.resources
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.csproj.GenerateResource.cache
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.csproj.CoreCompileInputs.cache
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.exe
+C:\Users\VIVEK KUMAR\source\repos\Sayhello\Sayhello\obj\Debug\Sayhello.pdb
